@@ -1,0 +1,23 @@
+
+########### 
+#########
+#######
+#####
+###
+#
+Due to a stupid github bug sometimes you can't access the jupyter notebooks.
+
+So if you see an "Sorry, something went wrong. Reload?" error just copy the file's url like: 
+https://github.com/sachink1729/RegressionAlgorithms/blob/main/LassoRegressionMPG.ipynb 
+
+go to https://nbviewer.jupyter.org/ and paste the file's url there to see it.
+
+OR
+
+you can download the entire folder to and use anaconda3 Jupyter Notebook viewer to access all the files.
+#
+###
+#####
+######
+########
+##########
